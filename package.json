@@ -1,0 +1,23 @@
+{
+  "name": "gax-starter-qr-siwe",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "2.1.4",
+    "@supabase/supabase-js": "2.45.4",
+    "cookie": "0.6.0",
+    "html5-qrcode": "2.3.10",
+    "jose": "5.2.3",
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "siwe": "2.1.6",
+    "viem": "2.9.9",
+    "wagmi": "2.10.3"
+  }
+}
